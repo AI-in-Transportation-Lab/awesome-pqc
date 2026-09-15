@@ -198,6 +198,7 @@ September 15, 2026 at 01:58:28 AM UTC
 
 
 ## Library
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) - Open-source scanner and CycloneDX CBOM generator that finds quantum-vulnerable cryptography (RSA/ECDH/ECDSA/DH) in code and gives NIST ML-KEM/ML-DSA/SLH-DSA migration guidance. CLI, MCP server, and GitHub Action.
 
 ## Tutorial
 
