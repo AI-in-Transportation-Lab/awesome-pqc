@@ -207,6 +207,8 @@ October 10, 2026 at 02:51:09 AM UTC
 
 ## Library
 
+- [PQC Readiness Scan](https://github.com/johnInarti/pqc-readiness-action) - GitHub Action that statically scans a repository for quantum-vulnerable cryptography (RSA, ECDSA, ECDH/X25519, Ed25519/Ed448, finite-field Diffie-Hellman, DSA, committed SSH/X.509 key material and manifest dependencies) and writes a CycloneDX 1.6 CBOM (ECMA-424). Supports the cryptographic discovery step of a migration plan; a static scan is not a proof of absence and not a compliance certification. Apache-2.0.
+
 ## Tutorial
 
 ### Written Tutorials
