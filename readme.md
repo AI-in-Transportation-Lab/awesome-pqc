@@ -35,12 +35,12 @@ To ensure the community stays current with ongoing advances, the repository is c
 Whether you are a researcher exploring lattice reductions, a developer implementing post-quantum TLS, or a policy expert preparing for the quantum transition, this resource provides a centralized and evolving platform to explore the rapidly expanding landscape of quantum-safe cryptography.
 
 ## Last Updated
-October 29, 2026 at 02:58:53 AM UTC
+October 30, 2026 at 03:03:04 AM UTC
 
 
 ## Theorem
 
-## Papers (169)
+## Papers (172)
 - [AI-Driven Post-Quantum Cryptography for Cyber-Resilient V2X Communication in Transportation Cyber-Physical Systems](https://arxiv.org/abs/2510.08496)
 - [Obfuscated Quantum and Post-Quantum Cryptography](https://arxiv.org/abs/2508.07635)
 - [Hybrid Schemes of NIST Post-Quantum Cryptography Standard Algorithms and Quantum Key Distribution for Key Exchange and Digital Signature](https://arxiv.org/abs/2510.02379)
@@ -210,6 +210,9 @@ October 29, 2026 at 02:58:53 AM UTC
 - [Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures](https://arxiv.org/abs/2610.27111)
 - [Securing Edge & Physical AI: Post-Quantum IoT Blockchain for Mission-Critical Cyber-Physical Agents](https://arxiv.org/abs/2610.33862)
 - [They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths](https://arxiv.org/abs/2610.36145)
+- [The use of post-quantum cryptography in the automotive context](https://arxiv.org/abs/2610.38632)
+- [Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems](https://arxiv.org/abs/2610.38479)
+- [Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software](https://arxiv.org/abs/2610.38054)
 
 
 ## Library
