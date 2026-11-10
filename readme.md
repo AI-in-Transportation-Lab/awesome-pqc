@@ -222,6 +222,8 @@ November 10, 2026 at 04:50:30 AM UTC
 
 ## Library
 
+- [fractal-pqc](https://www.npmjs.com/package/fractal-pqc) - MIT TypeScript library for quantum-safe migration of a Bitcoin-style key: binds a secp256k1/Taproot key to ML-DSA-65 (FIPS 204), derives P2TR addresses and signs BIP-341 key-path spends, self-checked against the official BIP-341 test vectors.
+
 ## Tutorial
 
 ### Written Tutorials
