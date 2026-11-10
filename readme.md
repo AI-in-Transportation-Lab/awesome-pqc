@@ -35,12 +35,12 @@ To ensure the community stays current with ongoing advances, the repository is c
 Whether you are a researcher exploring lattice reductions, a developer implementing post-quantum TLS, or a policy expert preparing for the quantum transition, this resource provides a centralized and evolving platform to explore the rapidly expanding landscape of quantum-safe cryptography.
 
 ## Last Updated
-November 9, 2026 at 03:07:04 AM UTC
+November 10, 2026 at 04:50:30 AM UTC
 
 
 ## Theorem
 
-## Papers (174)
+## Papers (177)
 - [AI-Driven Post-Quantum Cryptography for Cyber-Resilient V2X Communication in Transportation Cyber-Physical Systems](https://arxiv.org/abs/2510.08496)
 - [Obfuscated Quantum and Post-Quantum Cryptography](https://arxiv.org/abs/2508.07635)
 - [Hybrid Schemes of NIST Post-Quantum Cryptography Standard Algorithms and Quantum Key Distribution for Key Exchange and Digital Signature](https://arxiv.org/abs/2510.02379)
@@ -215,6 +215,9 @@ November 9, 2026 at 03:07:04 AM UTC
 - [Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software](https://arxiv.org/abs/2610.38054)
 - [Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach](https://arxiv.org/abs/2611.01144)
 - [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](https://arxiv.org/abs/2611.08442)
+- [PQC-Corpus: A Dataset of Linked Development Histories for Post-Quantum Cryptography](https://arxiv.org/abs/2611.10966)
+- [Empirical Assessment of Post-Quantum Cryptography Adoption Status in TLS](https://arxiv.org/abs/2611.09707)
+- [Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure](https://arxiv.org/abs/2611.09703)
 
 
 ## Library
